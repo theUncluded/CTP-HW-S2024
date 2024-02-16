@@ -2,4 +2,4 @@
 Homework submission REPO for CUNY Tech Prep Spring 2024 Semester - Data Science/AI Track
 
 # Example posted here with my resume !
-![alt text]([https://gyazo.com/39172a86ea14fa50dec33d103f36da50](https://i.gyazo.com/39172a86ea14fa50dec33d103f36da50.png)https://i.gyazo.com/39172a86ea14fa50dec33d103f36da50.png)
+![alt text](https://i.gyazo.com/39172a86ea14fa50dec33d103f36da50.png)
